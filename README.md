@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# [????](https://bill89.github.io/admin-master-controller/dist)
+[????](https://bill89.github.io/admin-master-controller/dist)
 
 ## Install
 ```bush
